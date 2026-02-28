@@ -1,6 +1,6 @@
 # LaTera Goodstin
 IT Support Protfoilo
-Welcome to my IT Support Portfolio. This repository showcases my hands-on technical experience, troubleshooting skills, and device repair work as an aspiring IT Support Specialist and Technology Professional.
+This repository showcases my hands-on technical experience, troubleshooting skills, and device repair work as an aspiring IT Support Specialist and Technology Professional.
 
 I hold a degree in Computer Information Systems and have practical experience diagnosing, repairing, and maintaining laptops, smartphones, and other devices. My goal is to deliver reliable technical support, solve complex hardware/software issues, and continuously grow within the tech industry.
 
